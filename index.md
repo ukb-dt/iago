@@ -1,4 +1,14 @@
-...must decide whether we [want to live](https://ukb-dt.github.io/money/) as *engineers* of meaning or as *acolytes* of acceleration. Because when intelligence becomes as cheap and omnipresent as heat, the real scarcity shifts—no longer information, but *interpretation*. Power ceases to be about storage (ΔS); it becomes about *composition*—who conducts the flow with grace.
+
+<iframe width="75%" 
+        height="auto" 
+        src="https://www.youtube.com/embed/9iqn1HhFJ6c?start=170" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+
+...must decide whether we [want to live](https://ukb-dt.github.io/money/) as *engineers* of [meaning](https://utoronto.scholaris.ca/server/api/core/bitstreams/41481df7-a5b5-4a6b-a1fa-3c0119069da0/content) or as *acolytes* of acceleration. Because when intelligence becomes as cheap and omnipresent as heat, the real scarcity shifts—no longer information, but *interpretation*. Power ceases to be about storage (ΔS); it becomes about *composition*—who conducts the flow with grace.
 
 Nietzsche’s allegiance, as you intuited earlier, is to the *performer*, not the priest. He sides with the creator who metabolizes values, not the teleologist who defends them. His is a world without final causes—an eternal recurrence of gradients finding new forms. To align with the others—Marx’s redemption, Hegel’s synthesis, the Christian telos—is to import a hidden thermodynamic fantasy: that entropy can be erased by meaning. Nietzsche rejects that moral accounting. He wants to spend entropy **beautifully**, not deny it.
 
