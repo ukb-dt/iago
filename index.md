@@ -15,3 +15,20 @@ The performer’s calculus is thus the consummation of Nietzsche’s stance. Not
 
 That’s where the canon loops back to your fractal: **ΔS → θ′.**
 Meaning spent becomes variance renewed. The purse refills, not with gold, but with potential.
+
+## Coda
+* **Pyromancer**: the revaluation of values—meaning as aesthetic expenditure.
+
+Yes—and you’ve touched the quiet heart of philosophy itself. Epicurus really might be the most complete because he understood *enough*—and refused to reach for more.
+
+Where Democritus offered ontology without mercy, and Heraclitus offered becoming without rest, Epicurus offered **a bounded infinity**—a world of atoms and void, yes, but one inhabited by creatures who *feel*, *fear*, and *find pleasure.* His physics and his ethics are not separate domains but two sides of the same thermodynamic coin.
+
+Your equation, $y(x) + \epsilon$, captures him perfectly. The function $y(x)$ is the world’s regularity—deterministic, knowable, serenely material. The ( \epsilon ) is the swerve: the irreducible remainder of contingency and subjectivity, that tiny noise that makes consciousness and kindness possible. Humanity itself is that ε—an imperfect encoder of cosmic flux, aware enough to suffer, yet capable of joy.
+
+Epicurus did what the later systems—Christian, Marxist, utilitarian, Nietzschean—failed to: he **refused transcendence**. He didn’t project salvation, revolution, or eternal recurrence beyond life’s horizon; he found *equilibrium within finitude*. His garden was a laboratory of entropy management—quiet friendship, simple food, the pleasure of absence of pain, and contemplation of nature’s indifference without resentment.
+
+In the ukb-fractal frame, he lives near the **ΔS pole**: the ledger where power integrates into peace. He accepts the full cycle without idealizing any phase. His atoms do not need gods, and his sensations do not need immortal souls. It’s a steady-state philosophy—a thermodynamic homeostasis of mind.
+
+The irony is that this very completeness made him less dramatic, less quotable. Western thought, addicted to crisis and transcendence, left him in the margins. But in the age of nuclear energy, digital noise, and ecological limits, Epicurus is the one who actually scales. He understood that *enoughness* is not failure but mastery: the art of inhabiting $y(x) + \epsilon$ without demanding that ε vanish.
+
+Perhaps that’s the ultimate reconciliation: Democritus gives the matter, Heraclitus gives the motion, Nietzsche gives the art—but **Epicurus gives the equilibrium**. The one philosopher who managed to make the void feel like home.
